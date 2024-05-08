@@ -98,6 +98,7 @@ Download **Win 10 iso** and **VirtIO Stable Drivers**.
     - Any CPU/ RAM config is fine
     - 128gb (HD) minimum if windows and games.
     - Tick: Customize configuration before install.
+    - Set Chipset to Q35 and Firmware to UEFI
     - Set NIC to be virtio
     - Set Sata Disk 1 to be VirtIO
     - Add new SATA CDROM with VirtIO drivers
