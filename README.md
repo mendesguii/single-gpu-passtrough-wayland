@@ -124,6 +124,7 @@ Download **Win 10 iso** and **VirtIO Stable Drivers**.
 # 6 Final touches
     - Start VM, connect to rust desk and install Nvidia drivers.
     - Connected screen should start poping up
+    - Add additional flags on OS.xml
 
 ## Thanks to
 
