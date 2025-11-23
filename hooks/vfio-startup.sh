@@ -28,9 +28,6 @@ modprobe -r nvidia_drm nvidia_modeset nvidia_uvm nvidia i2c_nvidia_gpu
 # Detach GPU devices from host
 virsh nodedev-detach pci_0000_06_00_0
 virsh nodedev-detach pci_0000_06_00_1
-virsh nodedev-detach pci_0000_06_00_2
-virsh nodedev-detach pci_0000_06_00_3
-
 
 # Load vfio module
 modprobe vfio-pci
