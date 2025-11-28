@@ -177,7 +177,7 @@
       <source>
         <address domain="0x0000" bus="0x06" slot="0x00" function="0x0"/>
       </source>
-      <rom file="/home/hxn/Downloads/single-gpu-passtrough-wayland-main/extra/rtx_4060.rom"/>
+      <rom file="/home/hxn/Documents/single-gpu-passtrough-wayland/extra/rtx_4060.rom"/>
       <address type="pci" domain="0x0000" bus="0x06" slot="0x00" function="0x0"/>
     </hostdev>
     <hostdev mode="subsystem" type="pci" managed="yes">
